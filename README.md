@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
 
-![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=OtacilioN&show_icons=true&theme=radical)
+![Ota](https://github-readme-stats.vercel.app/api?username=antoniPrz&show_icons=true&theme=radical)
 
 [![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/OtacilioN)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/otacilio/)
