@@ -25,7 +25,7 @@
 <h3>🔥 My favorite repos</h3>
 <br />
 <div align="center">
-  <a href="https://github.com/marcelo-rafael/nlw-06-letmeask">
+  <a href="https://github.com/TrujiE/ProyectoFinal">
     <img 
       align="center" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=marcelo-rafael&repo=nlw-06-letmeask&theme=dracula&layout=compact" />
