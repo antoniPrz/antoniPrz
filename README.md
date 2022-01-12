@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
 
-![Ota](https://github-readme-stats.vercel.app/api?username=antoniPrz&show_icons=true&theme=radical)
+![Ota](https://github-readme-stats.vercel.app/api?username=antoniPrz&show_icons=true&theme=nightowl)
 
 
 
