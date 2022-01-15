@@ -22,7 +22,7 @@
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/antoni-pérez/)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoniPrz.antoniPrz&color=00cf00) 
 
-<!--*************** my favourite repos ***************-->
+<!--*************** my favourite repos 
 <h3>🔥 My favorite repos</h3>
 <br />
 <div align="center">
@@ -37,3 +37,4 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=marcelo-rafael&repo=nlw_heat_web&theme=dracula&layout=compact" />
   </a>
 </div>
+***************-->
